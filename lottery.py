@@ -1,3 +1,5 @@
+# lottery.py
+
 import random
 
 def generate_numbers(n):
