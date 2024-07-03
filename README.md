@@ -1,1 +1,1 @@
-# CodeIt Git/GitHub
+# Codeit Git / GitHub
